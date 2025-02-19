@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "serve": "node dist/index.js",
-    "build": "tsc --build tsconfig.lib.json",
+    "build": "node init && tsc --build tsconfig.lib.json",
     "typecheck": "tsc"
   },
   "keywords": [],

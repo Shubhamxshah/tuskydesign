@@ -14,5 +14,7 @@
     "tslib": "^2.8.0",
     "typescript": "~5.5.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
